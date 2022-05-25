@@ -77,7 +77,7 @@ Live, scalable storefront that is CDN-Enabled.
 * Has specific subfolders for different types of resources-templates, scripts, forms & static content.
 
 ## Typical Cartridge Stack
-![Typical Stack](/assets/typical.png)
+![Typical Stack](./assets/typical.png)
 
 ## Cartridge Directory Structure
 ![Directory Structure](./assets/cartridge_structure.png)
@@ -183,7 +183,7 @@ module.exports = server.exports();
 > at the end of the stortefront´s URL.
 
 ## Controller URL
-https://zztr-**035**.sandbox.us01.dx.commercecloud.salesforce.com/on/demandware.store/Sites-**RefArch-Site**/**en_US**/**Search**-**Show**?**q=TV&lang=en_us**
+zztr-**035**.sandbox.us01.dx.commercecloud.salesforce.com/on/demandware.store/Sites-**RefArch-Site**/**en_US**/**Search**-**Show**?**q=TV&lang=en_us**
 * **035:** Number of your sandbox.
 * **Sites-RefArch-Site:** ID of the site you´re currently viewing. For Business Manager, it´ll be Sites-Site.
 * **en_US:** Locale you´re browsing.
