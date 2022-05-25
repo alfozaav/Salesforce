@@ -29,10 +29,10 @@ Live, scalable storefront that is CDN-Enabled.
 * Easily cutomized by retailers, system integrators & developers.
 
 ## Cartridge Stack
-![Cartridge Stack Image](/assets/cartridge_stack.png)
+![Cartridge Stack Image](./assets/cartridge_stack.png)
 
 ## Model View Controller (MVC)
-![Model View Controller](/assets/mvc.png)
+![Model View Controller](./assets/mvc.png)
 
 ## Business Manager
 ### Merchants
@@ -69,7 +69,7 @@ Live, scalable storefront that is CDN-Enabled.
 **Each site consists of:**
 * One or more **Master Catalog** wich contains the actual products.
 * Single **StoreFront Catalog(Site Catalog)** wich provides **Search & Navigation** with **Categories**.
-![StoreFront & Master Catalogs](/assets/catalogs.png)
+![StoreFront & Master Catalogs](./assets/catalogs.png)
 
 ## Cartridge
 * Folder containing a set of resources.
@@ -80,11 +80,11 @@ Live, scalable storefront that is CDN-Enabled.
 ![Typical Stack](/assets/typical.png)
 
 ## Cartridge Directory Structure
-![Directory Structure](/assets/cartridge_structure.png)
+![Directory Structure](./assets/cartridge_structure.png)
 
 ## Cartridge Path
 Functionality will be implemented & executed from left to right in the cartridge path.
-![Cartridge Path](/assets/cartridge_path.png)
+![Cartridge Path](./assets/cartridge_path.png)
 > To access the Cartridge Path:
 > Administraion/Sites/Manage Sites/RefArch-Settings
 **Considerations:**
