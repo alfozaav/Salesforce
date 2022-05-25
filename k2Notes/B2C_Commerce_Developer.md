@@ -21,7 +21,7 @@ Shared by many merchants to import & mantain storefront data as scheduled. Syste
 Live, scalable storefront that is CDN-Enabled.
 
 ## Infrastructure
-![SFRA Infrastructure](/assets/instances.png)
+![SFRA Infrastructure](./assets/instances.png)
 
 ## StoreFront Reference Architecture (SFRA)
 * Out of the box blueprint for site desgin, with fully functioning cart, checkout, homepage & detail page.
